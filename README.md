@@ -21,14 +21,14 @@
 <table>
   <tr>
     <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/114492712?s=100&v=4" width="100px" height="100px"/>
+        <img src="https://avatars.githubusercontent.com/u/113989972?s=100&v=4" width="100px" height="100px"/>
         <br>
         <a href="https://github.com/Alfarobby27">
             <bold>Alfarobby27</bold>
         </a>
     </td>
     <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/123545858?s=100&v=4" width="100px" height="100px">
+        <img src="https://avatars.githubusercontent.com/u/126972118?s=100&v=4" width="100px" height="100px">
         <br>
         <a href="https://github.com/dellwatch21">
             <bold>Abdur Rosyid Fachriansyah</bold>
